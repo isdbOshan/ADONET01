@@ -1,0 +1,66 @@
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductAdd.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductEdit.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductAdd.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductEdit.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductAdd.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductEdit.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm1.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm2.resources
+E:\sohan\C#__Class\M6\Class\Final Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm3.resources
