@@ -1,0 +1,13 @@
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\bin\Debug\ProductDb.mdf
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\bin\Debug\ProductDb_log.ldf
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\bin\Debug\R52_M5_Class_02_Work_01.exe.config
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\bin\Debug\R52_M5_Class_02_Work_01.exe
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\bin\Debug\R52_M5_Class_02_Work_01.pdb
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\obj\Debug\R52_M5_Class_02_Work_01.csproj.AssemblyReference.cache
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\obj\Debug\R52_M5_Class_02_Work_01.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\obj\Debug\R52_M5_Class_02_Work_01.Form1.resources
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\obj\Debug\R52_M5_Class_02_Work_01.Properties.Resources.resources
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\obj\Debug\R52_M5_Class_02_Work_01.csproj.GenerateResource.cache
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\obj\Debug\R52_M5_Class_02_Work_01.csproj.CoreCompileInputs.cache
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\obj\Debug\R52_M5_Class_02_Work_01.exe
+D:\R52\M5\Class 02\R52_M5_Class_02_Works\R52_M5_Class_02_Work_01\obj\Debug\R52_M5_Class_02_Work_01.pdb

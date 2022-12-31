@@ -1,0 +1,16 @@
+﻿CREATE TABLE Customers
+(
+	CustomerId INT NOT NULL PRIMARY KEY,
+	CustomerName	NVARCHAR(40) NOT NULL,
+	Phone NVARCHAR (20) NOT NULL
+)
+GO
+CREATE TABLE Orders
+(
+	OrderId INT PRIMARY KEY,
+	OrderDate DATE NOT NULL,
+	Item NVARCHAR(30) NOT NULL,
+	Quantity INT NOT NULL,
+	CustomerId INT NOT NULL REFERENCES Customers(CustomerId)
+)
+GO

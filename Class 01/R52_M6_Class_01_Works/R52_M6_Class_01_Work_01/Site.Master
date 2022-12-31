@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="R52_M6_Class_01_Work_01.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title><%: Page.Title %></title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/bootstrap.bundle.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+    <style>
+        body {
+            padding-top: 70px;
+        }
+        .main {
+            min-height: calc(100vh - 95px);
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server" style="padding:0;margin:0">
+        <nav class="navbar navbar-dark bg-success navbar-expand-md fixed-top border-bottom">
+            <div class="container-fluid">
+                <span class="navbar-brand">Web Form <sup>01</sup></span>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+                    data-bs-target="#navitems" aria-controls="navitems" aria-expanded="false" 
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse" id="navitems">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="Ex_01.aspx" class="nav-link">Ex 01</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="Ex_02.aspx" class="nav-link">Ex 02</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid main">
+            <asp:ContentPlaceHolder ID="bodyContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer class="container-fluid bg-success text-white">
+            &copy; <%: DateTime.Now.Year %> ESAD-CS@ACSL
+        </footer>
+    </form>
+    <asp:ContentPlaceHolder ID="foot" runat="server" >
+        
+    </asp:ContentPlaceHolder>
+</body>
+</html>

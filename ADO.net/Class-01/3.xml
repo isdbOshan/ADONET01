@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE book[
+    <!ELEMENT book (title, price)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT price (#PCDATA)>
+
+]>
+<book>
+<title>SQL</title>
+<price>120.00</price>
+</book>

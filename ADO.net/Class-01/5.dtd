@@ -1,0 +1,5 @@
+<!ELEMENT candidates (candidate*)>
+<!ELEMENT candidate (name | (first-name, last-name))>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT first-name (#PCDATA)>
+<!ELEMENT last-name (#PCDATA)>

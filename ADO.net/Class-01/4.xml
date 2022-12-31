@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE books SYSTEM '4.dtd'>
+<books>
+    <book>
+        <title>SQL</title>
+        <price>120.00</price>
+        <author>Mr. X</author>
+        <author>Mr. Y</author>
+        <author>Mr. Z</author>
+    </book>
+    <book>
+        <title>HTML</title>
+        <price>150.00</price>
+        <author>Mr. A</author>
+        <author>Mr. B</author>
+        <author>Mr. C</author>
+    </book>
+</books>

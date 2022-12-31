@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<examples>
+<text-data>Value must be &lt; 200</text-data>
+<func>
+    <![CDATA[
+    public void IsEven(int n){
+        return n%2==0;
+    }
+    ]]>
+</func>
+<order id="1270321-N-52">
+<value>9873.67</value>
+</order>
+</examples>

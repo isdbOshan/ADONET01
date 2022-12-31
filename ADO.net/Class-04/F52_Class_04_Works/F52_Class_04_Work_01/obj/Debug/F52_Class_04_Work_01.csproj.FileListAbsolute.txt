@@ -1,0 +1,14 @@
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\bin\Debug\F52_Class_04_Work_01.exe.config
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\bin\Debug\F52_Class_04_Work_01.exe
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\bin\Debug\F52_Class_04_Work_01.pdb
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.csproj.AssemblyReference.cache
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.Properties.Resources.resources
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.csproj.GenerateResource.cache
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.csproj.CoreCompileInputs.cache
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.exe
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.pdb
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.FormMain.resources
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.FormView.resources
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.FormInsert.resources
+D:\R52\M5\Class 04\F52_Class_04_Works\F52_Class_04_Work_01\obj\Debug\F52_Class_04_Work_01.FormEdit.resources

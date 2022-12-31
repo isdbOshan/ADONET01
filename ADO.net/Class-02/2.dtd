@@ -1,0 +1,7 @@
+<!ELEMENT document (name, size)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ATTLIST document version CDATA "1.0"
+            create-time CDATA #REQUIRED
+            last-modified CDATA #IMPLIED
+            content-type (doc|pdf|media) "doc">

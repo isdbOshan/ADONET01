@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE trainees SYSTEM '1.dtd'>
+<trainees>
+    <trainee trainee-id="123455" round="52" course="EASD">
+        <name></name>
+        <batch></batch>
+        <phone></phone>
+    </trainee>
+</trainees>

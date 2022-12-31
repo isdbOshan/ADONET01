@@ -1,0 +1,8 @@
+<!ELEMENT trainees (trainee)*>
+<!ELEMENT trainee (name, batch, phone)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT batch (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST trainee trainee-id CDATA #REQUIRED
+                round CDATA #REQUIRED
+                course (EASD|NT|GAVE|DDD) #REQUIRED>
